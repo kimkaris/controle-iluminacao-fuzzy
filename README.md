@@ -1,4 +1,4 @@
-# controle-iluminacao-fuzzy
+# Controle de iluminação inteligente por meio de lógica difusa 
 Trabalho realizado para a disciplina de Aprendizagem de Máquina.
 
 ## Especificação
