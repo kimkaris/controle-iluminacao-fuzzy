@@ -19,22 +19,26 @@ Desenvolver um sistema capaz de ajustar automaticamente a intensidade da ilumina
 - Luminosidade natural:
   - Conjuntos fuzzy: Escuro, Médio, Claro
   - Níveis de pertinência: Baixo, Médio, Alto
+
 ![image](https://github.com/user-attachments/assets/51fcb248-19fd-4252-8c98-60331f4d98e0)
 
 - Detecção de presença:
   - Conjuntos fuzzy: Ausente, Baixa, Alta
   - Níveis de pertinência: Baixo, Médio, Alto
+ 
 ![image](https://github.com/user-attachments/assets/bd973b90-0b39-421c-b081-e006e8277b40)
 
 - Temperatura ambiente:
   - Conjuntos fuzzy: Frio, Confortável, Quente
   - Níveis de pertinência: Baixo, Médio, Alto
+  
 ![image](https://github.com/user-attachments/assets/24fbb2cc-e5ec-4052-a76c-f999794f1a48)
  
 
 - Preferência dos usuários:
   - Conjuntos fuzzy: Baixa, Média, Alta
   - Níveis de pertinência: Baixo, Médio, Alto
+  
 ![image](https://github.com/user-attachments/assets/c079a28c-7ff8-4013-b767-95124fa3ade8)
 
 
@@ -42,6 +46,7 @@ Desenvolver um sistema capaz de ajustar automaticamente a intensidade da ilumina
 - Intensidade da iluminação:
   - Conjuntos fuzzy: Baixa, Média, Alta
   - Níveis de pertinência: Baixo, Médio, Alto
+  
 ![image](https://github.com/user-attachments/assets/16805595-b5bc-4905-9bb8-6e1aa36cda0d)
 
 
